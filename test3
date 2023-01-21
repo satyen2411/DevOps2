@@ -1,2 +1,7 @@
 thisis third file to add
+edit the commited file.
+ctrl+Xto edit from nano editor
+Unless committed the file update will not be pushed to github, since the edit version is not yet commited to git repo
+and push command pushed the version from git repo only
+
 
